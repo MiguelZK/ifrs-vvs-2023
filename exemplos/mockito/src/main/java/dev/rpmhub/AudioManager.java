@@ -1,3 +1,5 @@
+package dev.rpmhub;
+
 public class AudioManager {
 
     private int volume = 50;
